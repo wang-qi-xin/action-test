@@ -2,7 +2,7 @@
   "name": "test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wang-qi-xin.github.io/action-test",
+  "homepage": "https://wang-qi-xin.github.io/action-test2",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
